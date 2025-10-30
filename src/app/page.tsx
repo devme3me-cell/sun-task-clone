@@ -296,7 +296,7 @@ export default function Home() {
         {/* Header */}
         <div className="text-center mb-8">
           <h1 className="text-2xl sm:text-3xl font-bold tracking-wide">
-            龍伍團隊每週任務申請
+            馬來迎富每週任務申請
           </h1>
           <p className="text-slate-400 mt-1">完成每週任務，領取各種彩金！！</p>
         </div>
@@ -357,7 +357,7 @@ export default function Home() {
         {/* Section 1: Account confirmation */}
         {step === 1 && (
           <section className="rounded-2xl border border-white/10 bg-white/2 p-5">
-            <label className="block text-sm text-slate-300 mb-2">請輸入您的3A/大老爺帳號</label>
+            <label className="block text-sm text-slate-300 mb-2">請輸入您的3A/朕天下帳號</label>
             <input
               className="w-full rounded-xl border border-white/15 bg-[#0e1424] px-3 py-2 text-slate-100 outline-none focus:border-emerald-500/60"
               placeholder="請輸入帳號"
